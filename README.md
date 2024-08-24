@@ -1,5 +1,5 @@
 # Adventure Works Sales Analysis
-![DataAnalysis](https://github.com/user-attachments/assets/1a35e374-0b28-4246-a45e-8bb4eeb416a8)
+<img src="https://github.com/user-attachments/assets/1a35e374-0b28-4246-a45e-8bb4eeb416a8" alt="description" width="470" height="470"/>
 
 # Introduction
 This project provides an in-depth examination of sales data from Adventure Works, utilizing advanced Excel techniques to uncover valuable insights. Through detailed data analysis and the development of two interactive dashboards, this repository highlights key aspects of sales performance and profitability; providing a comprehensive view of business operations, empowering stakeholders with actionable insights to drive strategic decisions.
