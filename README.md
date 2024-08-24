@@ -33,7 +33,7 @@ Two interactive Excel dashboards were created to provide in-depth insights into 
 ➤ **Time Dashboard:**
 The Time Dashboard focuses on the temporal aspects of profitability, offering insights into how profits fluctuate over different time periods.
 
-![Time Dashboard](https://github.com/user-attachments/assets/0cdee52b-607e-463b-a825-648e36602abe)
+![Time Dashboard](https://github.com/user-attachments/assets/8bed7f68-ea87-4967-88f4-357f94d00bc0)
 
 ***Key Features:***
 
