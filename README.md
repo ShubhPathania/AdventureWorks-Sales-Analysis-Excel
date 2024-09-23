@@ -71,14 +71,8 @@ By leveraging the robust analytical capabilities of Excel, this project provides
 
 **README.md:** Provides an overview of the project.
 
-# 🛠️ Build With
+# 🛠️ Built With
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://olas.ie/wp-content/uploads/2022/10/PowerQuery-Logo.png" alt="power query" width="40" height="40"/> 
 </a>
-
-
-
-
-
-
